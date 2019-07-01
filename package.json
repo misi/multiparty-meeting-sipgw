@@ -17,7 +17,7 @@
 	"dependencies": {
 		"config": "^2.0.1",
 		"drachtio-srf": "^4.4.8",
-		"kurento-client": "https://github.com/Kurento/kurento-client-js#master",
+		"kurento-client": "https://github.com/ESTOS/kurento-client-js#master",
 		"mediasoup-client": "^2.4.0",
 		"node-mediastreamtrack": "0.0.1",
 		"random-string": "^0.2.0",
