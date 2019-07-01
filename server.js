@@ -4,7 +4,7 @@
 
 process.title = 'multiparty-meeting-sipgw';
 
-const config = require('./config/config');
+const config = require('config/config');
 const Srf = require('drachtio-srf');
 const Logger = require('./lib/Logger');
 const Room = require('./lib/Room');
